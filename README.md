@@ -68,8 +68,6 @@ So you been using the script for some time and you find out there's a new versio
 
 Every time the install option is run the script check the current directory for version of itself and will prompt the user according to the found version you can even downgrade to a previous version like this if you find some stupid bug in the latest one
 
-[Click me](http://www.google.com){: .btn}
-
 ## Why cRun?
 
 C Beginners are usually on a Windows machine running Dev-C++ or even Turbo C++. Now everyone has their comfort zone but let's be honest it's **a clunky interface and experience is mediocre at the best**.
